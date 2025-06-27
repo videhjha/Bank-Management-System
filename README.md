@@ -38,7 +38,7 @@ Withdrawals are only allowed if they do not reduce the balance below the require
 
 ## File Structure
 
-Bank_Management_System_Modified.cpp
-account.dat   # Binary file auto-generated to store account data
+- Bank_Management_System_Modified.cpp
+- account.dat   # Binary file auto-generated to store account data
 
 ---
